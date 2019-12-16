@@ -1,0 +1,1 @@
+pattern is cool. so we will apply pattern matching to it.if pattern matching succeeds we will explore many other approaches to pattern matching.we will have fun in learning pattern matching.

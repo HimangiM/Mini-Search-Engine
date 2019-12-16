@@ -1,0 +1,1 @@
+you have to make data structures project.use the data structures you have studied till now.data structures code should not be copied. implement data structures in your project.final evaluation of data structures will be done in your respective lab.
